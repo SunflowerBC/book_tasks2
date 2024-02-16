@@ -1,0 +1,15 @@
+{
+    "name": "natal/book_tasks2",
+    "autoload": {
+        "psr-4": {
+            "Natal\\BookTasks2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SunflowerBC",
+            "email": "russianhamlet@gmail.com"
+        }
+    ],
+    "require": {}
+}
